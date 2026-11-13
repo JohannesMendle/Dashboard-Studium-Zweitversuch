@@ -1,0 +1,17 @@
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+
+# PyCharm & Editoren
+.idea/
+.vscode/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
