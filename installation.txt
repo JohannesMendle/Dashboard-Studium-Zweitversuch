@@ -1,0 +1,25 @@
+Voraussetzungen: 
+- Anaconda oder andere Python-Distribution, um .py-Dateien ausführen zu können
+- Installierte Bibliotheken aus der requirements.txt
+- Empfohlenes Tool zum Bearbeiten, Individualisieren oder Lesen des Quellcodes: PyCharm
+
+Ablauf:
+1. Herunterladen der Inhalte des Repositories
+2. Entpacken der Daten
+3. Ausführen des Codes (z.B. im Anaconda-Prompt; falls PyCharm verwendet wird, als neues Projekt anlegen und die restlichen Schritte ignorieren) mit den 2 folgenden Befehlen:
+a. Ins Verzeichnis navigieren mit „cd C:\UsersUsername\PyCharmMiscProject“ (hier entsprechend den lokalen Pfad einfügen, in dem die .py-Dateien liegen)
+b. Code ausführen mit „python main.py“
+
+
+
+Prerequisites:
+- Anaconda or other python distribution to execute .py files
+- installed libraries from the requirements.txt
+- recommended tool to work on, individualize or read the code: PyCharm
+
+Procedure
+1. Download the contents of the repository
+2. Unpack the data
+3. Execute the code (e.g. with Anaconda prompt; if PyCharm is being used, create as new Project and ignore subsequent steps) with the 2 following prompts:
+a. navigate to the directory with "cd C:\UsersUsername\PyCharmMiscProject" (insert local path where your .py as well as your .csv are saved)
+b. execute code with "python main.py"
