@@ -1,0 +1,233 @@
+[
+ {
+   "kurs": "Betriebssysteme, Rechnernetze und verteilte Systeme",
+   "ects": 5,
+   "status": "anerkannt",
+   "note": "1,3",
+   "kategorie": "IT"
+ },
+ {
+   "kurs": "Einführung in Datenschutz und IT-Sicherheit",
+   "ects": 5,
+   "status": "anerkannt",
+   "note": "1",
+   "kategorie": "Organisatorisch"
+ },
+ {
+   "kurs": "Einführung in die Programmierung mit Python",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "1",
+   "kategorie": "Programmieren"
+ },
+ {
+   "kurs": "Einführung in das wissenschaftliche Arbeiten für IT und Technik",
+   "ects": 5,
+   "status": "anerkannt",
+   "note": "1,3",
+   "kategorie": "Organisatorisch"
+ },
+ {
+   "kurs": "Projekt: Objektorientierte und funktionale Programmierung mit Python",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "2",
+   "kategorie": "Programmieren"
+ },
+ {
+   "kurs": "Interkulturelle und ethische Handlungskompetenzen",
+   "ects": 5,
+   "status": "belegt",
+   "note": "",
+   "kategorie": "Wahlpflichtmodul"
+ },
+ {
+   "kurs": "Einführung in die Netzwerkforensik",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "3,3",
+   "kategorie": "IT"
+ },
+ {
+   "kurs": "Mathematik Grundlagen I",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "1",
+   "kategorie": "Mathematik"
+ },
+ {
+   "kurs": "Statistik - Wahrscheinlichkeit und deskriptive Statistik",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "2",
+   "kategorie": "Mathematik"
+ },
+ {
+   "kurs": "Requirements Engineering",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "3",
+   "kategorie": "Organisatorisch"
+ },
+ {
+   "kurs": "Projekt: Agiles Projektmanagement",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "1",
+   "kategorie": "Organisatorisch"
+ },
+ {
+   "kurs": "Wahlpflichtmodul C",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "2",
+   "kategorie": "Wahlpflichtmodul"
+ },
+ {
+   "kurs": "Grundzüge des System-Pentestings",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "3",
+   "kategorie": "Cyber Security"
+ },
+ {
+   "kurs": "Theoretische Informatik und Mathematische Logik",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "1",
+   "kategorie": "Mathematik"
+ },
+ {
+   "kurs": "Social Engineering und Insider Threats",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "2",
+   "kategorie": "Cyber Security"
+ },
+ {
+   "kurs": "Technische und betriebliche IT-Sicherheitskonzeptionen",
+   "ects": 5,
+   "status": "bestanden",
+   "note": "3",
+   "kategorie": "Cyber Security"
+ },
+ {
+   "kurs": "Projekt: Social Engineering",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Projekt"
+ },
+ {
+   "kurs": "Wahlpflichtmodul C",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Wahlpflichtmodul"
+ },
+ {
+   "kurs": "DevSecOps und gängige Software-Schwachstellen",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Cyber Security"
+ },
+ {
+   "kurs": "Kryptografische Verfahren",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Cyber Security"
+ },
+ {
+   "kurs": "Host- und Softwareforensik",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "IT"
+ },
+ {
+   "kurs": "Seminar: Aktuelle Themen in Computer Science",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "IT"
+ },
+ {
+   "kurs": "Projekt: Einsatz und Konfiguration von SIEM-Systemen",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "IT"
+ },
+ {
+   "kurs": "Wahlpflichtmodul C",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Wahlpflichtmodul"
+ },
+ {
+   "kurs": "Threat Modeling",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Cyber Security"
+ },
+ {
+   "kurs": "Standards der Informationssicherheit",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Organisatorisch"
+ },
+ {
+   "kurs": "Wahlpflichtmodul A",
+   "ects": 10,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Wahlpflichtmodul"
+ },
+ {
+   "kurs": "Projekt: Threat Modeling",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Projekt"
+ },
+ {
+   "kurs": "Wahlpflichtmodul C",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Wahlpflichtmodul"
+ },
+ {
+   "kurs": "Wahlpflichtmodul B",
+   "ects": 10,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Wahlpflichtmodul"
+ },
+ {
+   "kurs": "Projekt: Allgemeine Programmierung mit C/C++",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Projekt"
+ },
+ {
+   "kurs": "Wahlpflichtmodul C",
+   "ects": 5,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Wahlpflichtmodul"
+ },
+ {
+   "kurs": "Bachelorarbeit",
+   "ects": 10,
+   "status": "offen",
+   "note": "",
+   "kategorie": "Bachelorarbeit"
+ }
+]
